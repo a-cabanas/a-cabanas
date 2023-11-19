@@ -11,9 +11,9 @@
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+|     1| Python    |
+|     2| C++       |
+|     3| HTML      |
 
 </details>
 
