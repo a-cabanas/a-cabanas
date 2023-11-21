@@ -15,10 +15,11 @@
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Python    |
-|     2| C++       |
-|     3| HTML & CSS |
-|     4| React     |
+|     1| Spanish   |
+|     2| Python    |
+|     3| C++       |
+|     4| HTML & CSS |
+|     5| React     |
 
 </details>
 
