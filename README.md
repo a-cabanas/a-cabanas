@@ -1,4 +1,7 @@
 ### Hola! 👋🏽
+- 🇲🇽 
+- 🌱 currently learning React
+- 📫 How to reach me: acabanas212@gmail.com
 
 <!--
 <picture>
